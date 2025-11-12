@@ -9,3 +9,7 @@ short meaningful message
 select *
 from dbo.account
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
